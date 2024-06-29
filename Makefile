@@ -62,6 +62,7 @@ test:
 	pytest
 
 venvBuild:
+	[ ! -d ./venv ] && mkdir venv
 	python3 -m venv ./venv
 
 venvInstall:
