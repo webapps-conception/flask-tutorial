@@ -1,5 +1,5 @@
 # flask-tutorial
-
+``` bash
 /home/user/Projects/flask-tutorial
 ├── flaskr/
 │   ├── __init__.py
@@ -28,6 +28,7 @@
 ├── venv/
 ├── setup.py
 └── MANIFEST.in
+```
 
 * Tutorial : https://flask-fr.readthedocs.io/tutorial/
 * Github : https://github.com/pallets/flask/tree/main/examples/tutorial
